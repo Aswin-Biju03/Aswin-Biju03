@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Aswin ,a software engineer based in India 
+
+Goal is to establish myself as a competent professional by integrating technical proficiency with a passion for continuous
+ learning and professional growth.
+
+ This is a fresh profile where i'll be uploading smaller projects,experiments and things i'm recently working on. Everthing here is built from scratch , no copypaste template 
 <!--
 **Aswin-Biju03/Aswin-Biju03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
