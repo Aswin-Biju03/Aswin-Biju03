@@ -77,7 +77,7 @@ To establish myself as a competent professional by combining:
 ## 🤝 Let's Connect
 
 * 💬 Open to collaboration and learning opportunities
-* 📫 Reach me: *(add email or LinkedIn here)*
+* 📫 Reach me: aswinbiju0303@gmail.com
 
 ---
 
